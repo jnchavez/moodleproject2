@@ -1,3 +1,3 @@
 # test number 2
 
-For GutHub Windows
+For GitHub Windows
